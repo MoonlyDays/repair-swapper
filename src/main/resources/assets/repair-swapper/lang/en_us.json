@@ -11,7 +11,7 @@
 
 
 
-  "key.categories.repair-swapper": "Repair Swapper",
+  "key.category.repair-swapper.main": "Repair Swapper",
   "key.repair-swapper.toggle": "Toggle Repair Swapper",
   "hud.repair-swapper.enabled": "Repair Swapper enabled",
   "hud.repair-swapper.disabled": "Repair Swapper disabled",
